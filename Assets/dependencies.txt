@@ -1,0 +1,11 @@
+TextMesh Pro
+https://docs.unity3d.com/Packages/com.unity.textmeshpro@4.0/manual/index.html
+
+extOSC
+https://assetstore.unity.com/packages/tools/input-management/extosc-open-sound-control-72005
+
+StandaloneFileBrowser
+https://github.com/gkngkc/UnityStandaloneFileBrowser.git
+
+SimpleNN
+https://github.com/Shinh0707/SimpleNN.git
