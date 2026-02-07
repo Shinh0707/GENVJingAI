@@ -106,4 +106,6 @@ Assets/extOSC/
 Assets/Resources/Images/ThirdParty/*.png
 Assets/Resources/Images/ThirdParty/*.jpg
 Assets/TextMesh Pro/
+Assets/Resources/Fonts/*.ttf
+Assets/Resources/Fonts/fontjatexts.txt
 TD/Project/*.*.toe
