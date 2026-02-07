@@ -5659,7 +5659,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a436629cd293414888519b5df039e8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UpdateChecker
-  versionInfoUrl: https://raw.githubusercontent.com/User/Repo/main/version.json
+  versionInfoUrl: https://github.com/Shinh0707/OnlineRLFramework/raw/refs/heads/main/version.json
   onChecked:
     m_PersistentCalls:
       m_Calls: []

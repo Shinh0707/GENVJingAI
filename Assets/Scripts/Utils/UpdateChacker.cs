@@ -7,7 +7,7 @@ using UnityEngine.Networking;
 public class UpdateChecker : MonoBehaviour
 {
     // GitHubのRawファイルのURL
-    [SerializeField] string versionInfoUrl = "https://raw.githubusercontent.com/User/Repo/main/version.json";
+    [SerializeField] string versionInfoUrl = "https://github.com/Shinh0707/GENVJingAI/raw/refs/heads/main/version.json";
     VersionData _latest = null;
     bool _hasUpdate = false;
     bool _checked = false;
